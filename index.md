@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##百灵康医药连锁
 
 You can use the [editor on GitHub](https://github.com/xieyuhui0624/blk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
